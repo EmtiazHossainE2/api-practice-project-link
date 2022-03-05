@@ -11,4 +11,10 @@ live link : https://emtiazhossaine2.github.io/mealdb/
 4. Phone Hunter Repo (assignment project) : https://github.com/EmtiazHossainE2/phone-hunter <br>
 live link : https://emtiaz-by-explore-phone.netlify.app/
 
+5. Kanye Repo  : https://github.com/EmtiazHossainE2/phone-hunter <br>
+live link : https://emtiazhossaine2.github.io/milestone-6-es6/api-examples/kanye.html
+
+6. Weather Repo  : https://github.com/EmtiazHossainE2/milestone-6-es6/tree/main/Extra%20Part <br>
+live link : https://emtiazhossaine2.github.io/milestone-6-es6/Extra%20Part/
+
 
