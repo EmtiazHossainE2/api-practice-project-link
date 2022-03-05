@@ -17,4 +17,8 @@ live link : https://emtiazhossaine2.github.io/milestone-6-es6/api-examples/kanye
 6. Weather Repo  : https://github.com/EmtiazHossainE2/milestone-6-es6/tree/main/Extra%20Part <br>
 live link : https://emtiazhossaine2.github.io/milestone-6-es6/Extra%20Part/
 
+6. Music Api Repo  : https://github.com/EmtiazHossainE2/api-practice-project-link/tree/main/Music%20Error <br>
+
+live link : https://emtiazhossaine2.github.io/api-practice-project-link/Music%20Error/
+
 
